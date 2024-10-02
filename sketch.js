@@ -1,3 +1,9 @@
+
+
+
+
+
+
 let video;
 let poseNet;
 let poses = [];
